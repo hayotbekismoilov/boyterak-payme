@@ -17,7 +17,7 @@
 ## 2. Endpoint
 
 ```
-https://boyterak.myweb.uz/api/v1/payments/payme/
+https://boyterak.nyrosoft.uz/api/v1/payments/payme/
 ```
 
 Слэш в конце обязателен.
